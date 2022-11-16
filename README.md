@@ -1,4 +1,4 @@
-# Desafios de lógica em nível básicos e intermediários
+# Desafios de lógica em nível básico e intermediário !!
 
 
 Atividade 1 do Bootcamp Potência Tech Powered by Ifood Java Beginners!
